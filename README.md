@@ -15,4 +15,8 @@ This program scans a target file for predefined byte sequences (signatures). The
 
 ## How to Build
 
-This project is written in pure C and should be compiled with a standard C compiler
+This project is written in pure C and should be compiled with a standard C compiler. 
+
+## Objective
+
+The goal of this project was to implement a fundamental cybersecurity primitive: the ability to detect known patterns of data (signatures) within binary files. This demonstrates an understanding of file I/O, memory management, and string/byte manipulation in the C programming language.
